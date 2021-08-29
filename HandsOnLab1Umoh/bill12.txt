@@ -1,0 +1,2 @@
+The total bill is 22 : 10.98
+Total bill: 241.56
